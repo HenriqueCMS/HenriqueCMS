@@ -1,16 +1,16 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif"></img>
+  </div>
 
-<!--
-**HenriqueCMS/HenriqueCMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div>
+    <p>
+      "Programador em início de carreira, com muita vontade de aprimorar as suas habilidades e à procura de novos desafios."
+    </p>
+    <ul>
+  <li> :man_student: Excelência Técnica</li>
+  <li>Solucionador de Problemas Brilhante</li>
+</ul>
+  </div>
+  <a href="https://www.instagram.com/henriquechavesm/?next=%2F">
+    <img src="https://img.shields.io/badge/@henriquechavesm-ff1493?style=for-the-badge&logo=Instagram&logoColor=white"></img>
+  </a>
