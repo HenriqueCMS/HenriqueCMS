@@ -11,6 +11,37 @@
   <li>Solucionador de Problemas Brilhante</li>
 </ul>
   </div>
-  <a href="https://www.instagram.com/henriquechavesm/?next=%2F">
+  <div><a href="https://www.instagram.com/henriquechavesm/?next=%2F">
     <img src="https://img.shields.io/badge/@henriquechavesm-ff1493?style=for-the-badge&logo=Instagram&logoColor=white"></img>
   </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Mail-000000?style=for-the-badge&logo=minutemailer&logoColor=white"></img>
+  </a>
+  </div>
+  <div>
+    <p>
+      Linguagem de domínio do programador:
+    </p>
+  </div>
+  <div>
+    <img 
+      widf="50"
+      height="50"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
+    />
+    <img 
+      widf="50"
+      height="50"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+    />  
+    <img 
+      widf="50"
+      height="50"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+    />  
+    <img 
+      widf="50"
+      height="50"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+    />     
+  </div>
